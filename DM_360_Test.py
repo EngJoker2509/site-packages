@@ -91,7 +91,7 @@ param_dict = []
 
 def main_menu():
     global root
-
+    print("Hollaaaa")
     # Check if the root window already exists
     if root is not None:
         # Clear the existing buttons from the window
